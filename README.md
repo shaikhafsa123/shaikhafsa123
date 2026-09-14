@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Hafsa Shaik
 
-<!--
-**shaikhafsa123/shaikhafsa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech CSE (Data Science) Student  
+💻 Passionate about Programming, Data Science & AI  
+🌱 Currently improving my skills in Python, Java, SQL and Data Structures  
+🚀 Interested in building real-world projects and learning new technologies
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- C
+- SQL
+- Git & GitHub
+- Data Structures & Algorithms
+- Basics of Data Science
+
+## 📚 Currently Learning
+
+- Advanced Python
+- APIs with Python
+- Data Structures & Algorithms
+- DBMS & SQL
+- Data Science
+- Generative AI
+
+## 🎯 My Goals
+
+- Build strong programming fundamentals
+- Create useful real-world projects
+- Improve problem-solving skills
+- Participate in hackathons
+- Prepare for software placements
+
+## 📌 What You'll Find Here
+
+🔹 Python programs & practice  
+🔹 Java & DSA solutions  
+🔹 Data Science projects  
+🔹 Mini projects and experiments  
+🔹 My learning journey
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building projects and connecting with other developers.
+
+⭐ Thanks for visiting my profile!
